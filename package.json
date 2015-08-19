@@ -1,0 +1,28 @@
+{
+    "name": "blackpearl-allegro",
+    "private": true,
+    "version": "0.0.1",
+    "description": "tool to diff two builds of the same application",
+    "main": "allegro.js",
+    "repository": "",
+    "keywords":
+        [
+            "tools",
+            "diff"
+        ],
+    "dependencies":
+    {
+        "cli-table":    "*",
+        "optimist":    "*",
+        "sprintf":     "*"
+    },
+    "author": "Julie Pitt <julie@blackpearlsystems.com>",
+    "contributors": [
+    ],
+    "license": "MIT",
+    "respository":
+    {
+        "type": "git",
+        "url": "ssh://git@stash.blackpearlsystems.com/web/node-tools.git"
+    }
+}
